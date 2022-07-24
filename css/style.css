@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1200px;
+    margin: 0 auto;
+}
+.maindiv{
+    height: 650px;
+width: 300px;
+left: 300px;
+top: 81.00000000000011px;
+border-radius: 8px;
+box-shadow: 0px 8px 24px 0px #00000014;
+}
+.img{
+    height: 258px;
+width: 300px;
+left: 371px;
+top: 121.00000000000011px;
+border-radius: 0px;
+display: flex;
+justify-content: center;
+}
+.img img{
+padding: 25px;
+width: 180px;
+height: 180px;
+}
+.text .p1{
+    color: #333333;
+    padding-left: 30px;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.p2{
+    padding-left: 30px;
+font-size: 18px;
+font-weight: 500;
+color: #333333;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+}
+.text{
+    width: 270px;
+    height: 40px;
+    margin-top: -15px;
+}
+.p3{
+    margin-top: 5px;
+    padding-left: 30px;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.p4{
+    margin-top: 10px;
+    padding-left: 30px;
+font-size: 12px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #333333;
+}
+.color{
+    flex-wrap: wrap;
+    margin-top: 136px;
+    width: 120px;
+    justify-content: space-around;
+    padding-left: 30px;
+    display: flex;
+}
+.red{
+    margin-top: -1px;
+    height: 25px;
+width: 25px;
+border: 4px solid black;
+left: 340px;
+top: 625.0000000000001px;
+border-radius: 50%;
+background-color: red;
+}
+.blue{
+    height: 30px;
+width: 30px;
+left: 340px;
+top: 625.0000000000001px;
+border-radius: 50%;
+background-color: blue;
+}
+.black{
+    height: 30px;
+width: 30px;
+left: 340px;
+top: 625.0000000000001px;
+border-radius: 50%;
+background-color: black;
+}
+.add{
+    margin-top: 30px;
+    margin-left: 120px;
+    height: 40px;
+width: 250px;
+left: 340px;
+top: 697.0000000000001px;
+border-radius: 8px;
+background: #FBBF23;
+border: none;
+}
+.buy{
+    margin-top: 16px;
+    margin-left: 120px;
+    height: 40px;
+width: 250px;
+left: 340px;
+top: 697.0000000000001px;
+border-radius: 8px;
+border: 1px solid #61A5FA;
+}
+.btns p{
+    margin-top: 30px;
+    margin-left: 120px;
+font-size: 12px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #61A5FA;
+text-decoration: underline;
+}
